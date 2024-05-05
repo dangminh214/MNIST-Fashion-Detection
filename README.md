@@ -1,4 +1,4 @@
-<div align="center">MNIST Fashion detects project using CNN</div>
+<div align="center"><h1><b>MNIST Fashion detects project using CNN</b></h1></div>
 
 ## Introduction:
 A simple project using CNN to detect production from the FASHION dataset, it uses the convolutuion neural network to detect images, from the images of the data, it will recognize which type of clothes it is 
