@@ -20,6 +20,6 @@ A simple project using CNN to detect production from the FASHION dataset, it use
 ![image](https://github.com/dangminh214/MNIST-Fashion-Detection/assets/51837721/a6713306-ccc9-458b-a2f0-d207ddb2bfd9)
 
 ## Prediction:
-![image](https://github.com/dangminh214/MNIST-Fashion-Detection/assets/51837721/a176d6f6-6eb8-4c12-bedb-111e49d64b4b)
+![alt text](image.png)
 
 
